@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehraz Hossain Rumman </h1>
 <h3 align="center">A 4th  Year Mathematics  Student at Jagannath University, Dhaka</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MehrazRumman&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22MehrazRumman%22" /> </p>
 
 
 
