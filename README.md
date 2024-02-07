@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jahangir Hossain</h1>
-<h3 align="center">A 3rd Year CS Student at Jagannath University, Dhaka</h3>
+<h1 align="center">Hi 👋, I'm Mehraz Hossain Rumman </h1>
+<h3 align="center">A 4th  Year Mathematics  Student at Jagannath University, Dhaka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhm69&label=Profile%20views&color=0e75b6&style=flat" alt="jhm69" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MehrazRumman&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22MehrazRumman%22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhm69" alt="jhm69" /></a> </p>
 
