@@ -1,26 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mehraz Hossain Rumman </h1>
 <h3 align="center">A 4th  Year Mathematics  Student at Jagannath University, Dhaka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MehrazRumman&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22MehrazRumman%22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MehrazRumman
-" alt="MehrazRumman
-" /></a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MehrazRumman
-&show_icons=true&locale=en&layout=compact" alt="MehrazRumman
-" /></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MehrazRumman
-&show_icons=true&locale=en" alt="MehrazRumman
-" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MehrazRumman
-&" alt="MehrazRumman
-" /></p>
 
 
-- 🔭 I’m currently working on **[Shuno - an audio streaming app](https://github.com/JHM69/Shuno-Backend)**
 
-- 📫 How to reach me **jahangirhossainm69@gmail.com**
+- 🔭 I’m currently working on **[Book2shine - A saloon app](https://github.com/SMAR03/book2shine_backend/tree/master)**
+
+- 📫 How to reach me **stardark394@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -101,8 +87,6 @@
 
 <!-- social media links -->
 
-[LinkedIn]: https://www.linkedin.com/in/hasan-masum-281157186/
-[Instagram]: https://www.instagram.com/jhm69/
+[LinkedIn]: https://www.linkedin.com/in/mehraz-rumman/
 [Facebook]: https://www.facebook.com/jhm69
-[Twitter]: (https://twitter.com/jhm69)
-[Youtube]: https://www.youtube.com/@jhm69
+[Codeforces]: https://codeforces.com/profile/Izuku__Midoriya
