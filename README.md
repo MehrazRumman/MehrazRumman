@@ -26,6 +26,7 @@
 | Design           | Figma, Canva, Adobe Illustrator, Photoshop, XD, KdenLive                                                                        | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30" height="30"/>                                                                                                                                                                                                                                                                                                                                                       |
 | Additional Skill | Linux, Git, Github, Docker, VPS Management, Vercel, cPanel, Railway, PlanetScale, Azure VM, Google Apps Script, LaTeX, and more | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>                                                                                                                             |
 
+<!---
 ## AWARDS
 
 |                       Competition Name                        |         Project Name          | Achievement                                                                               |
@@ -41,7 +42,7 @@
 |                 Banglalink SDG Hackathon 3.0                  |      [Green Doctor][gd]       | [Top 10][banglalinkSdg]                                                                   |
 |              SUST SWE Technovent 2023 Hackathon               |   [Garage Chai][garageChai]   | [11th rank][sustHackathon]                                                                |
 |                  Mujib 100 idea contest 2021                  |     [Go Bangladesh][goBd]     | [Secured TOP 30][mujib100]                                                                |
-
+-->
 <!---
 ## SOME WORK
 
