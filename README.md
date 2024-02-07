@@ -7,9 +7,15 @@
 " alt="MehrazRumman
 " /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhm69&show_icons=true&locale=en&layout=compact" alt="jhm69" /></p> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhm69&show_icons=true&locale=en" alt="jhm69" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhm69&" alt="jhm69" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MehrazRumman
+&show_icons=true&locale=en&layout=compact" alt="MehrazRumman
+" /></p> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MehrazRumman
+&show_icons=true&locale=en" alt="MehrazRumman
+" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MehrazRumman
+&" alt="MehrazRumman
+" /></p>
 
 
 - 🔭 I’m currently working on **[Shuno - an audio streaming app](https://github.com/JHM69/Shuno-Backend)**
