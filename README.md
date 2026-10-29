@@ -26,7 +26,7 @@
 - [**dengue-analysis**](https://github.com/MehrazRumman/dengue-analysis): 26 years of dengue data in Bangladesh
 
 ## Find me
-- 🌐 Portfolio: https://mehrazrumman.github.io/rumman-portfolio/
+- 🌐 Portfolio: https://mehrazrumman.github.io/
 - 💼 LinkedIn: https://www.linkedin.com/in/mehraz-rumman/
 - ✍️ Medium: https://medium.com/@MehrazHossainRumman
 - 📧 mehrazrumman@gmail.com
