@@ -19,6 +19,7 @@
 
 ## Featured projects
 - [**gortb**](https://github.com/MehrazRumman/gortb): OpenRTB 2.5 implementation in Go for DSPs and SSPs
+- [**python-web-scraping-automation**](https://github.com/MehrazRumman/python-web-scraping-automation): Python web scraping & automation with requests, Playwright and Scrapy
 - [**fastapi-observer**](https://github.com/MehrazRumman/fastapi-observer): structured logging and observability middleware for FastAPI
 - [**BD-Road-Accident**](https://github.com/MehrazRumman/BD-Road-Accident): Bangladesh road accident data, cleaned and mapped
 - [**dengue-analysis**](https://github.com/MehrazRumman/dengue-analysis): 26 years of dengue data in Bangladesh
