@@ -6,6 +6,7 @@
 - 🌊 **Google Summer of Code 2025** contributor with IOOS (pyOBIS)
 - 🛠️ Open-source contributor with merged PRs in **Celery, Kombu, Django REST Framework, Scrapy and Django**
 - 🕷️ **Automation & web scraping developer**: Scrapy / Playwright scrapers that turn websites into clean datasets, Slack bots, workflow automation
+- 🏆 **Competitive programmer (C++)**: 1,750+ problems solved on [Codeforces](https://codeforces.com/profile/Izuku__Midoriya) (max Specialist), 3★ on [CodeChef](https://www.codechef.com/users/keai33)
 - 🎓 **Python tutor** since 2022: beginner to intermediate Python, data structures and algorithms
 
 ## What I work on
@@ -15,7 +16,7 @@
 | AdTech | OpenRTB 2.5, real-time bidding, DSP/SSP, impression & click tracking |
 | Data | ClickHouse, PostgreSQL, MongoDB, pandas, Jupyter |
 | Automation & scraping | Scrapy, Playwright, requests, BeautifulSoup, Slack bots |
-| Other | Go, Docker, Jenkins, CI/CD, Next.js |
+| Other | C++, Go, Docker, Jenkins, CI/CD, Next.js |
 
 ## Featured projects
 - [**gortb**](https://github.com/MehrazRumman/gortb): OpenRTB 2.5 implementation in Go for DSPs and SSPs
